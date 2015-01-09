@@ -3,6 +3,7 @@
 
     <string name="app_name">AndroidBeacon</string>
     <string name="hello_world">Hello world!</string>
+    <string name="server_message">Server Message!</string>
     <string name="action_settings">Settings</string>
 
 </resources>
